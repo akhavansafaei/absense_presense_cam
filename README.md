@@ -1,4 +1,4 @@
-"# Webcam Attendance System
+# Webcam Attendance System
 
 A simple yet powerful face recognition-based attendance monitoring system that uses a webcam to automatically track the presence and absence of students or employees.
 
